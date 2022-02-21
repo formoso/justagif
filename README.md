@@ -6,6 +6,8 @@ This example is taken from the book "The Go Programming Language" by Alan A. A. 
 ## What GIF is created?
 This program creates a gif of the [Lissajous curvesh](ttps://pt.wikipedia.org/wiki/Curvas_de_Lissajous)
 
+![image](out.gif)
+
 ## How to run:
 	$ go run main.go > out.gif
 
